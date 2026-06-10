@@ -16,15 +16,15 @@ This project was developed as part of my undergraduate thesis and involved colla
 - Firebase: Firebase was used to store, manage, and synchronize blood pressure and ECG data for real-time monitoring.
 
 ## D. System Workflow
-<img width="1093" height="865" alt="image" src="https://github.com/user-attachments/assets/de985eb5-988b-47ac-817f-b308d92c31f5" />
+![image alt](https://github.com/davidherianto/home-care-device/blob/011cf1e79ab08c174bdfadb5b9d40745066295c4/img/workflow.png)
 
 ## E. Schematic
-<img width="1143" height="855" alt="image" src="https://github.com/user-attachments/assets/896dc77a-ce52-4b09-8d89-96e22dece67f" />
+![image alt](https://github.com/davidherianto/home-care-device/blob/011cf1e79ab08c174bdfadb5b9d40745066295c4/img/schematic.png)
 
 ## F. Health Monitoring Apps
 The following image shows the health monitoring application after monitoring has been performed.
 
-<img width="490" height="1010" alt="image" src="https://github.com/user-attachments/assets/e8b55cac-75eb-4d35-81da-d76d164c19b4" />
+![image alt](https://github.com/davidherianto/home-care-device/blob/011cf1e79ab08c174bdfadb5b9d40745066295c4/img/mobileapps.png)
 
 
 
